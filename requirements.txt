@@ -1,0 +1,10 @@
+huggingface_hub>=0.34.0
+pypdf>=4.2.0
+python-dotenv>=1.0.1
+PyMuPDF>=1.24.0
+Pillow>=10.4.0
+pytesseract>=0.3.10
+google-genai>=1.12.1
+markdown>=3.7
+python-markdown-math>=0.8
+latex2mathml>=3.78.0
