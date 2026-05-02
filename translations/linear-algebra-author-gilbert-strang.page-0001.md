@@ -1,9 +1,0 @@
-**線性代數導論**
-
-第四版
-
-GILBERT STRANG
-麻省理工學院
-
-WELLESLEY - CAMBRIDGE PRESS
-Box 812060 Wellesley MA 02482
