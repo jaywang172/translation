@@ -6,3 +6,16 @@ __pycache__/
 .DS_Store
 
 translations/
+解題/
+Chapters/
+pdf_output*.txt
+pymupdf_output.txt
+check_labels.py
+compile_solutions_by_chapter.py
+export_markdown_pdf.py
+find_offset*.py
+print_pymupdf.py
+split_pdf.py
+solve_questions_*.py
+translate_pdf_gemma.py
+test.py
